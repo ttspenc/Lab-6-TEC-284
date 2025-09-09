@@ -84,3 +84,4 @@ void loop() {
     Serial.println("error opening datalog.txt");
   }
 }
+![lab 6 tec 284 ss](https://github.com/user-attachments/assets/c5f1494b-c9a1-49df-9a5c-b8a0e58e75d8)
